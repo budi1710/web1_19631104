@@ -1,0 +1,27 @@
+h1{
+    color: orange;
+    font-family: "Segoe UI";
+    }
+    .kotak{
+        width: 100px;
+        height: 100px;
+        padding: 50px;
+        margin: 20px;
+        color: #ffffff;
+        float: left;
+    }
+    .biru {
+        background-color: skyblue;
+    }
+    .lavender {
+        background-color: lavender;
+    }
+    .biru {
+        background-color: skyblue;
+    }
+    .merahmuda {
+        background-color: rgb(180, 89, 119);
+    }
+    .jingga {
+        background-color: rgb(235, 189, 39);
+    }
